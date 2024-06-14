@@ -1,0 +1,10 @@
+.d-flex{
+    display: flex;
+}
+
+.toolCont{
+    width: 100%;
+   height: 100vh;
+   padding: 50px;
+   max-width: 1200px;
+}
